@@ -1,10 +1,8 @@
-package main
+package blur
 
 import (
 	"log"
-
 	"math/rand"
-
 	"time"
 
 	"github.com/veandco/go-sdl2/sdl"
